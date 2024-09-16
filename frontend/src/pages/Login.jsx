@@ -89,7 +89,7 @@ function Login({ setUser }) {
           </div>
           <span
             onClick={() => setShowPassword((prev) => !prev)}
-            className="absolute right-[218px] top-[358px] z-[10] cursor-pointer"
+            className="absolute right-[200px] top-[405px] z-[10] cursor-pointer"
           >
             {showPassword ? (
               <AiOutlineEyeInvisible fontSize={24} fill="#AFB2BF" />

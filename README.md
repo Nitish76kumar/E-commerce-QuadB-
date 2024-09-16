@@ -1,4 +1,9 @@
 # E-Commerce Application
+
+
+## please login to email: admin@gmail.com  and passward: 123456
+# to cheak admin pannel and goto route http://localhost:3000/admin/addproduct to add product
+
 *Overview*
 
 
